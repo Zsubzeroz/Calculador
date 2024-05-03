@@ -3,7 +3,7 @@
 Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓🧮
 
 ## Índice
-- <a href="#Funcionalidades">Funcionalidades do Projeto</a>
+- <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
 - <a href="#Demonstração">Demonstração<a>
 - <a href="#tecnologias-utilizadas">Tecnologias Utilizadas<a>
