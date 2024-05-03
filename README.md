@@ -6,8 +6,7 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 - <a href="#Funcionalidades do Projeto" target=" blak">Funcionalidades do Projeto</a>
 - <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Layout<a>
 - <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Demonstração<a>
-- <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Tecnologias Utilizadas<a>
-- <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Como rodar o projeto?<a>
+- <a href="#Tecnologias utilizadas" target="_blank">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
 - [x] Calculos simples
