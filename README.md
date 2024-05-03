@@ -3,10 +3,10 @@
 Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓🧮
 
 ## Índice
-- <a href="#Funcionalidades do Projeto">Funcionalidades do Projeto</a>
+- <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
 - <a href="#Demonstração">Demonstração<a>
-- <a href="#Tecnologias utilizadas">Tecnologias Utilizadas<a>
+- <a href="#Tecnologias">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
 - [x] Calculos simples
