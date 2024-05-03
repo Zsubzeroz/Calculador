@@ -6,7 +6,7 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 - <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
 - <a href="#Demonstração">Demonstração<a>
-- <a href="#Tecnologias">Tecnologias Utilizadas<a>
+- <a href="#Tecnologias utilizadas">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
 - [x] Calculos simples
@@ -22,4 +22,5 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 - CSS
 - HTML
 
+## Rede Social
 - <a href="https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/" target="_blank">Linkedin<a>
