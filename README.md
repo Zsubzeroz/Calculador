@@ -3,7 +3,7 @@
 Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓🧮
 
 ## Índice
-- <a href="https://zsubzeroz.github.io/Calculador/" target=" blak">Funcionalidades do Projeto</a>
+- <a href="#Funcionalidades do Projeto" target=" blak">Funcionalidades do Projeto</a>
 - <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Layout<a>
 - <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Demonstração<a>
 - <a href="https://zsubzeroz.github.io/Calculador/" target="_blank">Tecnologias Utilizadas<a>
