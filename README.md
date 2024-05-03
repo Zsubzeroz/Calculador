@@ -6,7 +6,7 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 - <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
 - <a href="#Demonstração">Demonstração<a>
-- <a href="#Tecnologias utilizadas">Tecnologias-utilizadas<a>
+- <a href="#tecnologias-utilizadas">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
 - [x] Calculos simples
