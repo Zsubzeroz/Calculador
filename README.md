@@ -13,7 +13,6 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 
 ## Layout
 - CSS
-<!--"Imagens"-->
 
 ## Demonstração
 ![Link demonstração](/assets/Calculadora.gif)
@@ -23,11 +22,4 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 - CSS
 - HTML
 
-<!--## Como rodar este o projeto?-->
-
-<!--## Autores
-<img> -->
-
-[Linkedin](https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/)
-
-<!--## Proximos passos-->
+<a href="https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/" target=" blank">Linkedin<a>
