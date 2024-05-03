@@ -23,4 +23,4 @@ Uma simples calculadora para ajudá-lo a realizar contas do seu dia a dia.🤓�
 - HTML
 
 ## Rede Social
-- <a href="https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/" target="_blank">Linkedin<a>
+- <a href=“https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/” target=“_blank”>LinkedIn</a>
